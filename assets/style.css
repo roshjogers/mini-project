@@ -1,0 +1,18 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+section {
+    flex: 1 0 400px;
+    background: white;
+}
+
+body {
+    background: darkslategray;
+}
+
+header {
+    text-align: center;
+}
